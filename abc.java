@@ -22,7 +22,7 @@ public class abc {
     	else {
     		System.out.println("The equation has no solution!");
     	}
-        System.out.println("This programm was written by Adrian Herberg! Copyright 15th Dezember 2018");
+        System.out.println("This programm was written by CosmicStudios! Copyright 15th Dezember 2018");
     	//float[] erg = {x1, x2};
 		//return erg;
     	
